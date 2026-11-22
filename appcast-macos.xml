@@ -5,11 +5,11 @@
     <item>
       <title>Casama 0.1.0</title>
       <sparkle:releaseNotesLink>https://github.com/stackwares/casama-releases/releases/tag/v0.1.0</sparkle:releaseNotesLink>
-      <pubDate>Sat, 21 Nov 2026 07:40:25 +0000</pubDate>
-      <sparkle:version>70</sparkle:version>
+      <pubDate>Sun, 22 Nov 2026 02:22:45 +0000</pubDate>
+      <sparkle:version>79</sparkle:version>
       <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/stackwares/casama-releases/releases/download/v0.1.0/Casama-0.1.0-macos.dmg" sparkle:edSignature="oWepk5Ce49kMGsVmzqOuAe9INCPPfTChhAF35Bvc4PemBMAiylU8U9gBE4QMyISRc7P7XnMED3bTQgaxENmlCw==" length="128039930" type="application/octet-stream"/>
+      <enclosure url="https://github.com/stackwares/casama-releases/releases/download/v0.1.0/Casama-0.1.0-macos.dmg" sparkle:edSignature="phCH2ePj2m5xcSqedU2oV3nBoSRZgimP5Os9vbdPxa4w74eYfJf8SRnE+RNJdNbe37DyBp6jZ4ejVyvoIhurAw==" length="128987641" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
