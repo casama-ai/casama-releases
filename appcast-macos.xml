@@ -5,11 +5,11 @@
     <item>
       <title>Casama 0.1.0</title>
       <description><![CDATA[<style>body{font:13px -apple-system,sans-serif;line-height:1.45}li{margin:4px 0}</style><h3>What's new in Casama 0.1.0</h3><ul><li>Call your bots and talk things through. They answer out loud, with captions.</li><li>Make Casama yours: themes, color schemes, fonts and wallpapers in Settings → Appearance, with more from the gallery.</li><li>Tell your bots about yourself once, in Settings → About you: what to call you and how you like replies.</li><li>Sign in with a passkey, Apple, Google or a code from your email.</li><li>Put a page on the web at its own address, and use your own domain for it.</li></ul><p><a href="https://casama.ai/changelog">Every change</a></p>]]></description>
-      <pubDate>Wed, 25 Nov 2026 08:11:37 +0000</pubDate>
-      <sparkle:version>101</sparkle:version>
+      <pubDate>Wed, 25 Nov 2026 10:00:26 +0000</pubDate>
+      <sparkle:version>102</sparkle:version>
       <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/stackwares/casama-releases/releases/download/v0.1.0/Casama-0.1.0-macos.dmg" sparkle:edSignature="WmfITB7MR8hkpPxLF7ncvRVv103aWryhhnX5yMiL3QG8C+8Fz+MBbHzCwG2tPi8InHGUuIXj185e8h3gDjB4BQ==" length="132713508" type="application/octet-stream"/>
+      <enclosure url="https://github.com/stackwares/casama-releases/releases/download/v0.1.0/Casama-0.1.0-macos.dmg" sparkle:edSignature="DBMbQWsX1NG4E3L/dIDVgdyTz901yA9ViU4blq81fSZ3YQfx+vSEnPa2nJRCs0q/HOT3pc7BL2+leLncoU/OCQ==" length="132742180" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
